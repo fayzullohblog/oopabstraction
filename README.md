@@ -1,3 +1,4 @@
+
 # Abstract Base Classes in Python
 
 ### 1) Abstract Base class nima o'zi, shu haqida tushunchaga ega bo'lamiz,keyin code yozib yanada to'liqroq tushunib olamiz.
@@ -14,6 +15,7 @@ enid shu xizmatni sizga uxshagan boshqa  klintlar uchun ham qiladi, albatda ular
 siz uchun mavxum, ammo bu xizmatlar sizga kerak, xuddi shunday Abstact class va method xosil qilishn uchun abc modulidan ABC va @abstractmethod-larni import qilib mavxum Abstract class xosil qilamiz, va bu  classdan boshqa bir subclasslar vorislik oladi,
 va vorislik olgan class bu guyoki Mexmon xoandan online joy booking qilgan klintga uxshaydi, Subclass, Abstract classning barcha methodlarini o'zgartirib(override) qilib , o'zi uchun foydalanadi.
 endi code yozamiz
+
 
 
 ### 2) main.py faylga birinchi abstract classdan foydalanmasdan oddiy vorsilkdan foydalanib ko'ramiz.
@@ -121,9 +123,9 @@ sababi boshqa classlarda ya'ni subclasslarda aynan shu methodlar override qilina
 
 [Shaxsiy kanal](https://t.me/fayzulloh_abdullayev) 
 
-
-
-
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+---
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,aws,html,css)](https://skillicons.dev)
