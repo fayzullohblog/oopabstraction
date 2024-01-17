@@ -117,6 +117,13 @@ sababi boshqa classlarda ya'ni subclasslarda aynan shu methodlar override qilina
 
 [Facebook Follow bo'ling](https://www.facebook.com/fayzullohblog/) 
 
+[Suniy intekejt kanal](https://t.me/suniy_intelekt_uzb/) 
+
+[Shaxsiy kanal](https://t.me/fayzulloh_abdullayev) 
+
+
+
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,aws,html,css)](https://skillicons.dev)
