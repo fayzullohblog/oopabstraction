@@ -107,23 +107,23 @@ sababi boshqa classlarda ya'ni subclasslarda aynan shu methodlar override qilina
 
 
 
-[ dasdasdasd ](https://www.youtube.com/@webmaster_py)   
+[ ![My](https://user-images.githubusercontent.com/57800056/245666234-e0c3afd8-9ca1-44fd-8595-47ec0f6c4cfc.png) ](https://www.youtube.com/@webmaster_py)   
 
-[YouTube Subcribed bo'ling](https://www.youtube.com/@webmaster_py)
+[ ![My](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/youtube-48x48.png) ](https://www.youtube.com/@webmaster_py)
 
-[GitHub Follow bo'ling](https://github.com/fayzullohblog) 
+[ ![My](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/fayzullohblog) 
 
 [ ![My](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/fayzullohblog/) 
 
-[Instagram Follow bo'ling](https://www.instagram.com/fayzullohblog/)
+[ ![My](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/fayzullohblog/)
 
-[Facebook Follow bo'ling](https://www.facebook.com/fayzullohblog/) 
+[ ![My](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png) ](https://www.facebook.com/fayzullohblog/) 
 
-[Suniy intekejt kanal](https://t.me/suniy_intelekt_uzb/) 
+[ ![My](https://patrolavia.github.io/telegram-badge/chat.png) ](https://t.me/webmasterpy) 
 
-[Shaxsiy kanal](https://t.me/fayzulloh_abdullayev) 
+[ ![](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black) ](https://t.me/suniy_intelekt_uzb) 
 
-![My](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,aws,html,css)](https://skillicons.dev)
