@@ -107,7 +107,7 @@ sababi boshqa classlarda ya'ni subclasslarda aynan shu methodlar override qilina
 
 
 
-[Vedio orqali o'rganish](https://www.youtube.com/@webmaster_py)
+[ ![My](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.youtube.com/@webmaster_py)   
 
 [YouTube Subcribed bo'ling](https://www.youtube.com/@webmaster_py)
 
@@ -123,9 +123,7 @@ sababi boshqa classlarda ya'ni subclasslarda aynan shu methodlar override qilina
 
 [Shaxsiy kanal](https://t.me/fayzulloh_abdullayev) 
 
----
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
----
+![My](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,aws,html,css)](https://skillicons.dev)
