@@ -107,13 +107,13 @@ sababi boshqa classlarda ya'ni subclasslarda aynan shu methodlar override qilina
 
 
 
-[ ![My](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.youtube.com/@webmaster_py)   
+[ dasdasdasd ](https://www.youtube.com/@webmaster_py)   
 
 [YouTube Subcribed bo'ling](https://www.youtube.com/@webmaster_py)
 
 [GitHub Follow bo'ling](https://github.com/fayzullohblog) 
 
-[Linkedin Follow bo'ling](https://www.linkedin.com/in/fayzullohblog/) 
+[ ![My](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/fayzullohblog/) 
 
 [Instagram Follow bo'ling](https://www.instagram.com/fayzullohblog/)
 
