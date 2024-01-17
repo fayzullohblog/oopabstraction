@@ -2,7 +2,7 @@
 # Abstract Base Classes in Python
 
 ### 1) Abstract Base class nima o'zi, shu haqida tushunchaga ega bo'lamiz,keyin code yozib yanada to'liqroq tushunib olamiz.
-#### GitHubda Follow bo'ling [ ![My](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/fayzullohblog)
+ [GitHubga Follow bo'ling ](https://github.com/fayzullohblog)  
 
 <p align="center">
 <img alt="Types-of-OOPS-2" height="500" src="https://media.geeksforgeeks.org/wp-content/uploads/20230818181616/Types-of-OOPS-2.gif" width="500">
